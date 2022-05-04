@@ -8,7 +8,7 @@ setuptools.setup {
   author='rvjst',
   author_email='heyans93@gmail.com',
   url = "https://github.com/rvjst/test_pypi/new/main",
-  download_url='https://github.com/sejin-chun/calc0001/archive/refs/tags/v0.0.1.zip",
+  download_url='https://github.com/rvjst/test_pypi/releases/tag/v0.0.1.zip",
   install_requires=["pytest"],
   long_description = 'oss-dev calculator python module',
   long_description_content_type = 'text/markdown',
